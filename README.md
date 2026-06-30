@@ -437,6 +437,7 @@ How to host stuff.
 * [planetruby/awesome-events](https://github.com/planetruby/awesome-events). A collection of awesome Ruby events (meetups, conferences, camps, etc.) from around the world.
 * [totalism.org](http://totalism.org/calendar). Events of interest for tactical hacker, theory, avant-art scenes in space-time.
 * [mobilehackersio/pwa-confs](https://github.com/mobilehackersio/pwa-confs). A list of conferences talking about PWA.
+* [awesome-developer-conferences](https://github.com/Infrasity-Labs/awesome-developer-conferences) - A daily-updated directory of developer conferences worldwide.
 
 
 
